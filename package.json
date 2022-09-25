@@ -1,6 +1,6 @@
 {
     "name": "@lab3dvlp/nest-influxdb",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./dist/index.js",
     "repository": "https://github.com/vlzh/nest-influxdb",
     "author": "vlzh",
@@ -19,14 +19,14 @@
         "logging"
     ],
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "^5.35.1",
-        "@typescript-eslint/parser": "^5.35.1",
-        "eslint": "^8.22.0"
+        "@typescript-eslint/eslint-plugin": "^5.38.0",
+        "@typescript-eslint/parser": "^5.38.0",
+        "eslint": "^8.24.0"
     },
     "dependencies": {
-        "@nestjs/common": "^9.0.11",
+        "@nestjs/common": "^9.1.2",
         "influx": "^5.9.3",
-        "typescript": "^4.7.4"
+        "typescript": "^4.8.3"
     },
     "prettier": {
         "tabWidth": 4
