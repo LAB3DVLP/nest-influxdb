@@ -65,3 +65,10 @@ export class TrafficService {
     }
 }
 ```
+
+
+# Release
+
+To create a new release and publish on LAB3 NPM, create a tag and release on Github, the Action will run automatically and publish.
+
+
